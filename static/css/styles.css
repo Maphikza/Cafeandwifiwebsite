@@ -1,0 +1,61 @@
+.card-img-top {
+    height: 18vw;
+}
+
+.intro {
+    background-color: #9FA194;
+    border: 100px solid #9FA194;
+    color: white;
+    font-family: 'Montserrat';
+}
+
+.wording {
+    font-size: x-large;
+}
+
+.head {
+    background-color: #617373;
+}
+
+footer {
+    background-color: #617373;
+    color: white;
+}
+
+.registration {
+    background-color: #9FA194;
+    line-height: 2.5rem;
+    width: 100%;
+    height: 52rem;
+    color: #52433c;
+}
+
+.reg_form {
+    padding: 2rem;
+}
+
+.location {
+    font-family: 'Montserrat';
+    font-weight: bolder;
+    font-size: large;
+}
+
+.checks {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.entry {
+    background-color: #9FA194;
+    color: #52433c;
+}
+
+.reg-envelope{
+    background-color: #9FA194;
+}
+
+.envelope {
+    background-color: #9FA194;
+    padding-top: 4rem;
+    padding-bottom: 26rem;
+}

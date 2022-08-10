@@ -1,0 +1,10 @@
+{% include "header.html" %}
+{% import "bootstrap/wtf.html" as wtf %}
+<div class=" container-fluid envelope">
+<div class="container-fluid d-grid fw-bold gap-3 pb-4 w-25 entry">
+    <h1 class="fw-bold text-dark text-center pt-4 pb-0">Sign Up</h1>
+    {{ wtf.quick_form(form, novalidate=True, button_map={"submit": 'dark'}) }}
+</div>
+</div>
+
+{% include "footer.html" %}
